@@ -1,6 +1,6 @@
 ![Header](https://github.com/WebBygi/WebBygi/blob/main/assets/home.jpg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebBygi&repo=github-readme-stats&theme=nord)](https://github.com/WebBygi/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebBygi&repo=Photographer-Irina-Gladkova)](https://github.com/WebBygi/Photographer-Irina-Gladkova)
 
 ## Привет! Меня зовут Константин, и я начинающий фронтенд разработчик. Моей целью является создание креативных и интерактивных веб-сайтов, которые не только красивы, но и функциональны.
 
