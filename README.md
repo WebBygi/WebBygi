@@ -26,3 +26,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebBygi&hide_progress=true&theme=nord&layout=donut-vertical)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebBygi&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Footer](https://github.com/WebBygi/WebBygi/blob/main/assets/footer.jpg)
